@@ -13,19 +13,19 @@ Generating and visualizing a confusion matrix to analyze classification errors.
 Visualization of filters in the first convolutional layer and activation maps of the neural network.  
 
 ## Technologies Used
-  Python  
-  TensorFlow/Keras  
-  NumPy  
-  Matplotlib  
-  Sklearn  
+- Python  
+- TensorFlow/Keras  
+- NumPy  
+- Matplotlib  
+- Sklearn  
 
 ## Results Visualization
 
 The project generates several plots to help analyze the model's performance:
-   Confusion matrix, which shows misclassified instances.  
-   Accuracy and loss plots over training epochs.  
-   Visualization of filters in the first convolutional layer.  
-   Activation maps, showing which image features are most important to the model.  
+   - Confusion matrix, which shows misclassified instances.  
+   - Accuracy and loss plots over training epochs.  
+   - Visualization of filters in the first convolutional layer.  
+   - Activation maps, showing which image features are most important to the model.  
 
 ### Possible Improvements
 Implementing transfer learning to improve model performance.  
