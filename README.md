@@ -28,7 +28,7 @@ The project generates several plots to help analyze the model's performance:
    - Activation maps, showing which image features are most important to the model.  
 
 ### Possible Improvements
-Implementing transfer learning to improve model performance.  
-Experimenting with different CNN architectures.  
-Optimizing hyperparameters to enhance classification accuracy.  
-Expanding the dataset for better model generalization.  
+- Implementing transfer learning to improve model performance.  
+- Experimenting with different CNN architectures.  
+- Optimizing hyperparameters to enhance classification accuracy.  
+- Expanding the dataset for better model generalization.  
