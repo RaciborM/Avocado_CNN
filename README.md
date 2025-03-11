@@ -1,6 +1,6 @@
 # Avocado_CNN
 
-This project utilizes a Convolutional Neural Network (CNN) to classify images into three different classes. The model is trained on an image dataset where class labels are extracted from file names. Additionally, data augmentation techniques and model visualization are implemented.
+This project utilizes a Convolutional Neural Network (CNN) to classify images into three different classes. The model is trained on an image dataset where class labels are extracted from file names. Additionally, data augmentation techniques and model visualization are implemented. It was my second CNN model that I created during the second semester of my master's degree.
 
 
 ## Features
