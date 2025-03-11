@@ -12,7 +12,7 @@ Trening modelu i ocena wyników za pomocą metryk dokładności oraz funkcji str
 Generowanie i wizualizacja macierzy pomyłek w celu analizy błędów klasyfikacji.  
 Wizualizacja filtrów pierwszej warstwy konwolucyjnej oraz map aktywacji sieci neuronowej.  
 
-##Użyte technologie
+## Użyte technologie
   Python  
   TensorFlow/Keras  
   NumPy  
