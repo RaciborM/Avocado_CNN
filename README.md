@@ -31,4 +31,18 @@ The project generates several plots to help analyze the model's performance:
 - Implementing transfer learning to improve model performance.  
 - Experimenting with different CNN architectures.  
 - Optimizing hyperparameters to enhance classification accuracy.  
-- Expanding the dataset for better model generalization.  
+- Expanding the dataset for better model generalization.
+
+### Model results:
+
+Model accuracy:
+![dokladnosc](https://github.com/user-attachments/assets/802542d5-1b9a-471a-b024-d6441c5d48c6)
+
+Model loss:
+![strata](https://github.com/user-attachments/assets/b3f7daab-b876-4813-a969-c7f1a43938e2)
+
+Confusion matrix:
+![macierz_pomylek](https://github.com/user-attachments/assets/7f6ae718-8686-426e-ab83-c0b9d14d4162)
+
+Map filters:
+![filtry](https://github.com/user-attachments/assets/c870f01e-4d68-47b6-9997-f09a73edf541)
